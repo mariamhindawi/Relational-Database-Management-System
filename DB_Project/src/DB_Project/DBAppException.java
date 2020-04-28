@@ -1,4 +1,4 @@
-package rabena_yostor;
+package DB_Project;
 
 @SuppressWarnings("serial")
 public class DBAppException extends Exception {

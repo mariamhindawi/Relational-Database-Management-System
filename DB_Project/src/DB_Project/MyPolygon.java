@@ -1,4 +1,4 @@
-package rabena_yostor;
+package DB_Project;
 
 import java.awt.Dimension;
 import java.awt.Polygon;
